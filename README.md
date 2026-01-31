@@ -1,11 +1,7 @@
-# leetcode
-
-# C 
-
-# Python
-
-# Java
-
-# VJEC
+# leetcode,
+# C ,
+# Python,
+# Java,
+# VJEC,
 
 
